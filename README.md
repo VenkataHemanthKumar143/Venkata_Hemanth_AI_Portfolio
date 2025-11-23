@@ -1,7 +1,7 @@
 # Venkata Portfolio - AI Chat Portfolio
 Visit my Portfolio usinfg this URL : https://venkata-hemanth-portfolio.vercel.app/
 # To Contact :
-MailId : hemanthhemanthkumar2004gmail.com
+MailId : hemanthhemanthkumar2004@gmail.com
 Mobile : +91 6300829223
 
 ## 🚀 Quick Start
